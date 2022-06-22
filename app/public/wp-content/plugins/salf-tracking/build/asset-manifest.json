@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dab59c7.css",
+    "main.js": "/static/js/main.0dc8dbbd.js",
+    "static/js/787.ddd6cffc.chunk.js": "/static/js/787.ddd6cffc.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.d70bba02bae81e90a19a.jpg",
+    "static/media/salf-logo-final.svg": "/static/media/salf-logo-final.205e59d739b3104e53bdae92c2d22a12.svg",
+    "static/media/tick.png": "/static/media/tick.b4e93a58cd8596ed94ae.png",
+    "index.html": "/index.html",
+    "main.3dab59c7.css.map": "/static/css/main.3dab59c7.css.map",
+    "main.0dc8dbbd.js.map": "/static/js/main.0dc8dbbd.js.map",
+    "787.ddd6cffc.chunk.js.map": "/static/js/787.ddd6cffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dab59c7.css",
+    "static/js/main.0dc8dbbd.js"
+  ]
+}
